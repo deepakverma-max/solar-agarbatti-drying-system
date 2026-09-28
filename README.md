@@ -159,7 +159,7 @@ This project was developed as part of a **team-based innovation/hackathon effort
 
 ### Physical MVP Prototype
 
-![Prototype Exterior](images/physical-prototype-exterior.jpg)
+![Prototype Exterior](image/physical-prototype-exterior.jpg)
 
 *Early physical prototype using a repurposed metal container.*
 
