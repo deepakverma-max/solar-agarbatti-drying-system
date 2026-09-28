@@ -150,7 +150,11 @@ This project was developed as part of a **team-based innovation/hackathon effort
 **Development Stage:** MVP / Prototype
 **Primary Areas:** Hardware Design • Embedded Systems • Solar Energy • Product Prototyping
 ## 🛠️ Prototype Development
+## 🏗️ System Architecture
 
+![MVP System Architecture](images/system-architecture-mvp.png)
+
+*System architecture of the proposed MVP, showing the solar power system, ESP32-based sensing and control, drying chamber, safety layers, and semi-manual packaging workflow.*
 ### Conceptual Design
 
 ![Conceptual Model](images/conceptual-model-visualization.jpg)
