@@ -149,3 +149,24 @@ This project was developed as part of a **team-based innovation/hackathon effort
 **Project Type:** Hardware / Embedded Systems / Renewable Energy / Prototyping
 **Development Stage:** MVP / Prototype
 **Primary Areas:** Hardware Design • Embedded Systems • Solar Energy • Product Prototyping
+## 🛠️ Prototype Development
+
+### Conceptual Design
+
+![Conceptual Model](images/conceptual-model-visualization.jpg)
+
+*AI-generated conceptual visualization of the proposed system. This image represents the intended design and is not a photograph of the physical prototype.*
+
+### Physical MVP Prototype
+
+![Prototype Exterior](images/physical-prototype-exterior.jpg)
+
+*Early physical prototype using a repurposed metal container.*
+
+![Drying Tray](images/drying-tray-prototype.jpg)
+
+*Hand-fabricated wire drying tray developed for the prototype.*
+
+![Two-Tray Arrangement](images/two-tray-chamber-prototype.jpg)
+
+*Early two-tray drying chamber arrangement.*
